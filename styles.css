@@ -1,5 +1,6 @@
 body {
-  background-image: url(Img/graus.jpeg);
+  background-image: center no-repeat url(Img/graus.jpeg);
+  background-size: cover; 
   font-family: sans-serif;
   margin: 20px;
 }
